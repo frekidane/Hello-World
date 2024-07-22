@@ -1,0 +1,30 @@
+1) Insertion
+
+Arrays:--
+Time Complexity: O(n) (When inserting at the beginning or at the middle).
+Best Case: O(1) (when inserting at the end, assuming there is space).
+
+Linked Lists:
+Time Complexity: O(1) for inserting at the beginning (constant time, as it only involves updating pointers).
+Average Case: O(n) if inserting in the middle or end, as it requires traversal to the insertion point.
+
+2) Deletion
+
+Arrays:---
+Time Complexity: O(n) (When we delete from the first or the middle).
+Best Case: O(1) (when deleting from the end).
+
+Linked Lists:
+Time Complexity: O(1) for deleting the head node (constant time).
+Average Case: O(n) for deleting a node in the middle or end.
+
+3) Access
+
+Arrays:
+Time Complexity: O(1) (Arrays can access by direct indexing).
+
+Linked Lists:
+Time Complexity: O(n) (In this....).
+
+
+

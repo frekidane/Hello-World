@@ -1,0 +1,22 @@
+1, Binary search
+ 
+--> For the binarySearch.js
+/* 
+Space Complexity: The space complexity of your implementation is 𝑂(log𝑛) due to the recursive calls.
+                 Each recursive call adds a new frame to the call stack until the base case is reached.
+*/
+
+
+
+2, Hash table search
+
+--> For the linearSearch.js
+/* 
+Space Complexity: The space complexity of linearSearch is 𝑂(1), because it doesn't use any extra space proportional 
+                to the input size n aside from a few variables (i, isFound), which are constant in size.
+*/
+
+
+
+ 
+
